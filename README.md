@@ -73,3 +73,10 @@ Update the data to 0: **UPDATE Inventory SET quantity = 0 WHERE product_id = 12;
 
 Select the data to watch if the exit_date is updated with the trigger: **SELECT * FROM Inventory;**
 
+### Webgraphy
+
+https://codeandwork.github.io/courses/cs/sp_cursors_triggers_indexes.html
+
+https://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.help.sqlanywhere.12.0.1/dbusage/ptuc.html
+
+
